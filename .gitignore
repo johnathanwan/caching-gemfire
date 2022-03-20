@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/build/
+/buildSrc/.gradle/
+/buildSrc/build/
+/consumer/build/
+/provider/build/
